@@ -1,0 +1,6 @@
+module Pods_RNPlaybook_RNPlaybookTests {
+  umbrella header "Pods-RNPlaybook-RNPlaybookTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
